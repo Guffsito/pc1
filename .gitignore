@@ -1,0 +1,19 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
